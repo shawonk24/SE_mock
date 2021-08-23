@@ -1,6 +1,6 @@
 # SE_mock
-Install wordpress
-upload the theme
+Install wordpress<br>
+upload the theme<br>
 upload the plugins<br>
-activate all the plugins
-import database
+activate all the plugins<br>
+import database<br>
